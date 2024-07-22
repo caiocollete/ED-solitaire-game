@@ -7,7 +7,7 @@
 #include "scr/tad.h" // onde fica o tipo abstrado de dado do tipo Fila
 #include "scr/desenhos.h" // header de layouts das paginas e exibe as cartas;
 #include "scr/menus.h" // header de menus do jogo;
-#include "scr/game.h" // header com as funcoes que possibilitem jogar;
+#include "scr/game.h" // header com as funcoes que possibilita jogar;
 
 int main(){
 	struct deck deck;
